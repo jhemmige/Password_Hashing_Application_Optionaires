@@ -1,9 +1,9 @@
 # JumpCloud_password_hashing_Application
 
 Handy References:
-https://www.restapitutorial.com/httpstatuscodes.html
-https://www.w3schools.com/tags/ref_httpmethods.asp
-https://www.webfx.com/web-development/glossary/http-status-codes/
+1. https://www.restapitutorial.com/httpstatuscodes.html
+2. https://www.w3schools.com/tags/ref_httpmethods.asp
+3. https://www.webfx.com/web-development/glossary/http-status-codes/
 
 
 
