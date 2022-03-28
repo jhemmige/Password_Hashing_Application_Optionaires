@@ -27,3 +27,11 @@ h. Extentreports ( For Creating Reports)
 i. Log4j-api ( For Creating Logs)
 j. Log4j-core 
 k. junit
+
+
+I have Created a .xlsx sheet that contains Manual TestCases used for testing the application on the TestCase Tab.
+Those cases that are Automated. I have marked them with an YES
+The .xlsx sheet has a Defects Tab that lists the defects/bugs identified while testing the api.
+
+Logs folder contains the Logs that were created while running the test.
+Reports folder contains the reports on PASSED OR FAILED Testcases in .html format.
