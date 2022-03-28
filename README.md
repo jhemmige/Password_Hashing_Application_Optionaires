@@ -30,7 +30,7 @@ k. junit
 
 # TestCases and Defects Sheet
 I have Created a .xlsx sheet that contains Manual TestCases used for testing the application on the TestCase Tab.
-Those cases that are Automated. I have marked them with an YES
+Those cases that are Automated. I have marked them with an YES.
 The .xlsx sheet has a Defects Tab that lists the defects/bugs identified while testing the api.
 
 # Logs and Reports
