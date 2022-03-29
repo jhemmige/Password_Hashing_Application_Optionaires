@@ -17,18 +17,19 @@ Scripts have been created for a few TestCases based on the manual Testcase docum
 To run the code, the following is required.
 1. Download an IDE for running Java code. Set the Java JRE path
 2. Create a Maven Project.
-3. In the POM.xml , we need the following Libraries.
+3. In the POM.xml , we need the following Libraries. These latest versions of these libraries can be obtained from MavenRepository. 
+4. https://mvnrepository.com/
   a. io.rest-assured
   b. Com.fasterxml.jackson.core- jackson-databind
   c. Com.fasterxml.jackson.core- jackson-core<
   d. Com.fasterxml.jackson.core - jackson-annotations
   e. Com.google.code.gson- gson
-  f. testng
+  f. testng ( for Assertions and Validations)
   g. json-simple
   h. Extentreports ( For Creating Reports)
   i. Log4j-api ( For Creating Logs)
   j. Log4j-core 
-  k. junit
+  k. junit (for Assertions and Validations)
 
 # TestCases and Defects Sheet
 I have Created a .xlsx sheet that contains **Manual TestCases** used for testing the application on the **TestCase Tab**.
