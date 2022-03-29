@@ -19,8 +19,8 @@ To run the code, the following is required.
 2. Create a Maven Project.
 3. In the POM.xml , we need the following Libraries. These latest versions of these libraries can be obtained from MavenRepository. 
 4. https://mvnrepository.com/
-  a. "io.rest-assured"
-  b. Com.fasterxml.jackson.core- jackson-databind
+5. -io.rest-assured
+6. -Com.fasterxml.jackson.core- jackson-databind
   c. Com.fasterxml.jackson.core- jackson-core
   d. Com.fasterxml.jackson.core - jackson-annotations
   e. Com.google.code.gson- gson
