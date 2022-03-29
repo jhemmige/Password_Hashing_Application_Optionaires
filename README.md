@@ -33,6 +33,8 @@ To run the code, the following is required.
    **K.**   junit (for Assertions and Validations)
 
 ## TestCases and Defects Sheet
+All Manual testing has been carried out using POSTMAN tool. Here's a link to download the tool https://www.postman.com/product/rest-client/
+I have used Mac os for testing.
 I have Created a .xlsx sheet that contains **Manual TestCases** used for testing the application on the **TestCase Tab**.
 Those cases that are Automated. I have marked them with an YES.
 The .xlsx sheet has a **Defects Tab** that lists the defects/bugs identified while testing the api.
