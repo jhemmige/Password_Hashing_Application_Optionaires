@@ -19,17 +19,17 @@ To run the code, the following is required.
 2. Create a Maven Project.
 3. In the POM.xml , we need the following Libraries. These latest versions of these libraries can be obtained from MavenRepository. 
 4. https://mvnrepository.com/
-   **A**.   io.rest-assured
-   **B**   Com.fasterxml.jackson.core- jackson-databind
-   **C**  Com.fasterxml.jackson.core- jackson-core
- ** d. **Com.fasterxml.jackson.core - jackson-annotations
- ** e. **Com.google.code.gson- gson
-  **f. **testng ( for Assertions and Validations)
- ** g. **json-simple
-  **h.** Extentreports ( For Creating Reports)
-**  i. **Log4j-api ( For Creating Logs)
- ** j.** Log4j-core 
- ** k. **junit (for Assertions and Validations)
+   **A.**   io.rest-assured
+   **B.**   Com.fasterxml.jackson.core- jackson-databind
+   **C.**   Com.fasterxml.jackson.core- jackson-core
+   **D.**   Com.fasterxml.jackson.core - jackson-annotations
+   **E.**   Com.google.code.gson- gson
+   **F.**   testng ( for Assertions and Validations)
+   **G.**   json-simple
+   **H.**   Extentreports ( For Creating Reports)
+   **I.**   Log4j-api ( For Creating Logs)
+   **J.**   Log4j-core 
+   **K.**   junit (for Assertions and Validations)
 
 ## TestCases and Defects Sheet
 I have Created a .xlsx sheet that contains **Manual TestCases** used for testing the application on the **TestCase Tab**.
