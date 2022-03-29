@@ -12,8 +12,7 @@ https://drive.google.com/file/d/1Ikh18AVdkXtrJ_YakgvcpWH3d8WqS98p/view?usp=shari
 
 
 ## How to Run the Test
-I have created Automation scripts for api testing using RestAssured framework. 
-Scripts have been created for a few TestCases based on the manual Testcase document. 
+I have created Automation scripts for the api testing using RestAssured framework. I am still learning advanced framework. Created these scripts with the knowledge I currently have on RestApi testing framework. Scripts have been created for a few TestCases based on the manual Testcase document. 
 To run the code, the following is required.
 1. Download an IDE for running Java code. Set the Java JRE path
 2. Create a Maven Project.
