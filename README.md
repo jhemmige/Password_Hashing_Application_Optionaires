@@ -12,7 +12,9 @@ https://drive.google.com/file/d/1Ikh18AVdkXtrJ_YakgvcpWH3d8WqS98p/view?usp=shari
 
 
 ## How to Run the Test
-I have created Automation scripts for the api testing using RestAssured framework. I am still learning advanced framework. Created these scripts with the knowledge I currently have on RestApi testing framework. Scripts have been created for a few TestCases based on the manual Testcase document. 
+I have created Automation scripts using RestAssured api framework. I am still learning advanced framework from Udemy.com.
+I am still figuring out how to create a stable testscript for **"The software should be able to process multiple connections simultaneously"** requirement.
+Scripts have been created only for a few TestCases based on the manual Testcase document and they have been marked as an YES corresponding to the testcase.
 To run the code, the following is required.
 1. Download an IDE for running Java code. Set the Java JRE path
 2. Create a Maven Project.
