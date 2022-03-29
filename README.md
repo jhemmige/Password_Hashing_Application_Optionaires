@@ -35,8 +35,12 @@ To run the code, the following is required.
 I have Created a .xlsx sheet that contains **Manual TestCases** used for testing the application on the **TestCase Tab**.
 Those cases that are Automated. I have marked them with an YES.
 The .xlsx sheet has a **Defects Tab** that lists the defects/bugs identified while testing the api.
+https://github.com/jhemmige/JumpCloud_password_hashing_Application/blob/master/JumpCloud_TestCases%20and%20Defects.xlsx
 
 ## Logs and Reports
 **Logs folder** contains the Logs that were created while running the test.
+https://github.com/jhemmige/JumpCloud_password_hashing_Application/blob/master/Logs/log4j.log
+
 **Reports folder** contains the reports on PASSED OR FAILED Testcases in .html format.
+https://github.com/jhemmige/JumpCloud_password_hashing_Application/tree/master/Reports
 
