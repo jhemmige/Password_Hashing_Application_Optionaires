@@ -1,15 +1,9 @@
-# JumpCloud_password_hashing_Application
+# Password_Hashing_Application
 
 # Handy References:
 1. https://www.restapitutorial.com/httpstatuscodes.html
 2. https://www.w3schools.com/tags/ref_httpmethods.asp
 3. https://www.webfx.com/web-development/glossary/http-status-codes/
-
-
-
-# Requirements about the Application :						
-https://drive.google.com/file/d/1Ikh18AVdkXtrJ_YakgvcpWH3d8WqS98p/view?usp=sharing
-
 
 # How to Run the Test
 Automation Scripts have been created for a few TestCases based on the manual Testcase document. To run the code, the following is required.
